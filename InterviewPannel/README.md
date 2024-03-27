@@ -26,7 +26,9 @@ This is interview pannel console application implemented in Java. It allows rece
 
 # SCREEN SHOTS :
 
-![Screenshot](path/to/screenshot.png)
+![Screenshot](../screenshots/InterviewPannel/interview1.png)
+![Screenshot](../screenshots/InterviewPannel/interview2.png)
+![Screenshot](../screenshots/InterviewPannel/interview3.png)
 
 
 # PATTERNS FOLLOWED :
