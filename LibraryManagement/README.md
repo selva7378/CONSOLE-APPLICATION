@@ -30,7 +30,11 @@ This is a simple library management system implemented in Java. It allows admin 
 
 # SCREEN SHOTS :
 
-![Screenshot](path/to/screenshot.png)
+![Screenshot](../screenshots/libraryManagement/library1.png)
+![Screenshot](../screenshots/libraryManagement/library2.png)
+![Screenshot](../screenshots/libraryManagement/library3.png)
+![Screenshot](../screenshots/libraryManagement/library4.png)
+![Screenshot](../screenshots/libraryManagement/library5.png)
 
 
 # PATTERNS FOLLOWED :
